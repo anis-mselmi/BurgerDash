@@ -1,3 +1,4 @@
+# Main game script for BurgerDash
 import sys
 import pygame
 from objects import Button, Customer, Order

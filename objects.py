@@ -1,3 +1,4 @@
+# Game objects for BurgerDash
 import pygame
 import random
 
