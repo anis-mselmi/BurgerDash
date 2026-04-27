@@ -1,6 +1,6 @@
 # BurgerDash
 
-![Background](assets/background.png)
+<img src="assets/background.png" alt="Background" width="500"/>
 
 Bienvenue dans **BurgerDash**, un jeu rapide et amusant de restauration rapide !
 
